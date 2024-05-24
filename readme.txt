@@ -1,3 +1,6 @@
+This is a fork of fatalis' MENL load remover for Mirror's Edge.
+It is a rewrite of the hooking functionality in C++ that also fixes a number of issues the community has found over the years.
+
 MENL (Mirror's Edge No Loads) is an automatic load time remover for Mirror's
 Edge. It's both easier and more accurate than manually editing a video to cut
 out loads. It is designed to be RTA Without Loads; only loading is removed.
@@ -43,10 +46,14 @@ Authors:
     Fatalis - Code
     chillmastor - Data Gathering, Testing
 
+    Phoenix - fork
+
 Thanks:
 
     Testing - qqzzy, Keelshing
     Game Info - nulaft, naechster
+
+    Searching for accurate pointers - Heki, Toyro & others
 
 
 @fatalis_
@@ -54,5 +61,7 @@ twitch.tv/fatalis_
 fatalis.twitch@gmail.com
 
 twitch.tv/chillmastor
+
+Discord: phoenixsr_
 
 #mirrorsedge @ irc2.speedrunslive.com IRC
